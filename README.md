@@ -1,0 +1,1 @@
+Please make sure you have mongo running if you want to run the mongo.py file.
